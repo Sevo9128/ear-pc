@@ -1,3 +1,8 @@
+
+# This fork is work in progress
+There are no pushes yet because it is work in progress
+I will try to make it into an Electron app
+
 # ear (web) [unofficial]
 
 ![Ear(web) Logo](res/icons/256x256.png)
